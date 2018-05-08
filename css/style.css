@@ -18,3 +18,18 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1,h2,h3,h4 {
+  opacity: .45;
+  font-family: baskerville, serif;
+}
+
+.logo-images:hover {
+  border: 3px solid;
+  border-color: gray;
+}
+
+#header-image {
+  border: 3px solid;
+  border-color: gray;
+}
