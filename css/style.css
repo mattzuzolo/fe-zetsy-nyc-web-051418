@@ -29,3 +29,7 @@ h1,h2,h3,h4 {
   border-color: gray;
 }
 
+#header-image {
+  border: 3px solid;
+  border-color: gray;
+}
