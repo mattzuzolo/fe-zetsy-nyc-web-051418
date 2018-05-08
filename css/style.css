@@ -20,5 +20,5 @@ body {
 /* Write all remaining styles here */
 
 h1,h2,h3,h4 {
-  opacity: 50%;
+  opacity: .05;
 }
